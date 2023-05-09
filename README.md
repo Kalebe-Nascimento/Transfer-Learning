@@ -5,8 +5,8 @@ neste arquivo estarão 3670 fotos de flores em que o modelo será treinado para 
 divido entre estas 5 classe:
 
 
-daisy = margarida 
-roses = rosas
-tulips = tulipas
-dandelion = dente-de-leão
-sunflowers = girassol
+1. daisy = margarida 
+2. roses = rosas
+3. tulips = tulipas
+4. dandelion = dente-de-leão
+5. sunflowers = girassol
