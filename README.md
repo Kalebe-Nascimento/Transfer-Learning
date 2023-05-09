@@ -5,7 +5,7 @@ neste arquivo estarão 3670 fotos de flores em que o modelo será treinado para 
 divido entre estas 5 classe:
 
 
-daisy = margarida
+daisy = margarida 
 roses = rosas
 tulips = tulipas
 dandelion = dente-de-leão
